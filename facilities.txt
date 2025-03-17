@@ -1,0 +1,3 @@
+Hospitals:AIIMS Bhubaneswar;KIMS Hospital;Apollo Hospitals Bhubaneswar
+ATMs:SBI ATM: Near Jaydev Vihar;ICICI ATM: Patia Square;HDFC ATM: Chandrasekharpur
+Schools:DPS Kalinga;St. Xavier's High School;KIIT International School
