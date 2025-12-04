@@ -6,7 +6,6 @@ Built entirely with **Java Swing**, the system provides an intuitive GUI and fil
 
 ![Java](https://img.shields.io/badge/Java-Swing-orange)
 ![Platform](https://img.shields.io/badge/Platform-Desktop-blue)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
 ---
 
